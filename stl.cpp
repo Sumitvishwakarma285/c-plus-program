@@ -1,5 +1,5 @@
 // Ctrl+B to run the code
-// Author: Prathiksha Kini
+
 
 #include<bits/stdc++.h>
 
